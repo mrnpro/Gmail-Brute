@@ -1,4 +1,4 @@
-# Gmail-Brute
+# Gmail-Brute 🧑‍💻
 
 ### Installation <br>
  - Generate password list 
